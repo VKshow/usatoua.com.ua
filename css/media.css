@@ -1,0 +1,298 @@
+@media(max-width: 1496px){
+    
+    
+    .info__text h3{
+        font-weight: 500;
+        font-size: 17px;
+    }
+   .about__text h3{
+        font-weight: 500;
+        font-size: 17px;
+    }
+    .parts__text{
+        font-size: 17px;
+    }
+    .items_text{
+        font-size: 18px;
+    }
+    
+    .order__title{
+        font-size: 27px;
+    }
+    .order__subtitle{
+        font-size: 20px;
+        
+    }
+    .order-form input{
+        width: 42%;
+    }
+}
+    
+    
+
+@media (max-width: 1200px){
+    .menu{
+        padding: 9px 2px;
+    }
+    .info__text h3{
+        font-size: 14px;
+    }
+    .info__text a{
+        font-size: 16px;
+    }
+    .about__text h3{
+        font-size: 17px;
+    }
+    
+    
+    .parts__text{
+        font-size: 16px;
+    }
+    .items_text{
+        font-size: 17px;
+    }
+    .order__title{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1024px){
+    .container{
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+    
+    .info__img{
+        width: 100%;
+    }
+    .info__text{
+        width: 100%;
+    }
+    
+    .info__text h3{
+        font-size: 21px;
+    }
+    .info__text a{
+        font-size: 22px;
+        font-weight: 400;
+    }
+    .about__img{
+        width: 100%;
+        margin-top: 25px;
+    }
+    .about__text{
+        width: 100%;
+    }
+    .about__text h3{
+        font-size: 21px;
+        font-weight: 400;
+    }
+    
+    .parts__img {
+    width: 100%;
+    }
+    .parts__text{
+        width: 100%;
+        font-size: 22px;
+    }
+
+    .steps__group_items{
+        width: 49%;
+    }
+    
+    .items_text{
+        font-size: 20px;
+        padding: 10px 55px;
+    }
+}
+@media (max-width: 895px){
+    body{
+        margin-top: 0;
+    }
+    .menu{
+        display: none;
+    }
+    .main__list{
+        width: 48%;
+    }
+    .list_inner{
+        font-weight: 400;
+    }
+    .main__contacts{
+        width: 45%;
+    }
+    .info__text h3{
+        font-weight: 400;
+    }
+    .inner_title{
+        font-size: 34px;
+    }
+    .service__text{
+        padding: 40px 3px;
+    }
+    .steps__group_items{
+        margin-top: 30px;
+    }
+    .order-form{
+        width: 100%;
+    }
+        
+}
+
+@media (max-width: 768px){
+    .container{
+        margin-left: 90px;
+        margin-right: 90px;
+    }
+    
+    .main__title{
+        font-size: 32px;
+        margin-top: 0;
+    }
+    .main__subtitle{
+        font-size: 28px;
+        margin-top: 30px;
+    }
+    .main_descr{
+        margin-top: 30px;
+        font-size: 15px;
+    }
+    
+    .main__btn{
+        margin-top: 28px;
+    }
+    .btn_submit{
+        font-size: 14px;
+    }
+    .main__btn{
+        transform: translatex(-27%);
+    }
+    .btn{
+        width: auto;
+        height: auto;
+    }
+    .inner_title{
+        font-size: 25px;
+    }
+    
+    .items_text{
+        padding: 10px 10px;
+    }
+    .delivery__group{
+        width: 100%;
+    }
+    
+}
+
+@media (max-width: 480px){
+    .main{
+        padding: 14px 0;
+    }
+    
+    .main__list{
+        width: 100%;
+    }
+    .main__contacts{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .btn_submit{
+        font-size: 12px;
+    }
+    .main__btn{
+        margin-left: 27%;
+        transform: translatex(0%);
+    }
+    .container{
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+    .info{
+        margin-top: 16px;
+    }
+    .info__items{
+        margin-top: 14px;
+    }
+    .info__text h3{
+        font-size: 14px;
+    }
+    .about{
+        margin-top: 21px;
+    }
+    .about__text h3{
+        font-size: 14px;
+    }
+    .parts{
+        margin-top: 21px;
+    }
+    .parts__items{
+        margin-top: 21px;
+    }
+    .parts__text{
+        font-size: 14px;
+    }
+    .delivery{
+        margin-top: 21px;
+        padding: 17px 0;
+    }
+    .delivery__item{
+        font-size: 14px;
+    }
+    .inner_title{
+        font-size: 23px;
+    }
+    .delivery__time{
+        font-size: 17px;
+    }
+    .service{
+        margin-top: 21px;
+        padding: 18px 0;
+    }
+    .service__text{
+        padding: 21px 3px;
+        font-size: 15px;
+    }
+    .steps__group_items{
+        width: 100%;
+    }
+    .items_text{
+        font-size: 21px;
+    }
+
+    .steps__group_items{
+        width: 100%;
+    }
+    .order{
+            padding: 25px 0;
+    }
+    .order__title{
+        font-size: 18px;
+    }
+    .order-form input {
+        width: 100%;
+    }
+    
+    
+    textarea{
+        width: 100%;
+    }
+    .social{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .creator{
+        width: 100%;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 360px){
+    .container {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .main {
+        padding-top: 60px;
+    }
+}
+
